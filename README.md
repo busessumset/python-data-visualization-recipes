@@ -1,4 +1,4 @@
-# Data Visualization
+# Sales Data Visualization
 
 A collection of Python data-visualization recipes built around a small set of
 sales/store datasets. The notebook walks through the main chart families —
